@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://github.com/Mzota2/SneakersSite)
-- Live Site URL: [](https://mzota2.github.io/SneakersSite/)
+- Solution URL: [View Solution](https://github.com/Mzota2/SneakersSite)
+- Live Site URL: [View Live Site](https://mzota2.github.io/SneakersSite/)
 
 ## My process
 
