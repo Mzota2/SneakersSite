@@ -59,7 +59,7 @@ function Cart({cartRef}) {
                 
                 <p className='cart-message'>Your cart is empty</p>}
 
-                {item?.length && <button className='cart-checkout-btn'> Checkout</button>}
+                {item?.length && <button onClick={deleteItem} className='cart-checkout-btn'> Checkout</button>}
             </div>
 
         </div>

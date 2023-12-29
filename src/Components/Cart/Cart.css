@@ -64,12 +64,18 @@
 
 
 .cart-checkout-btn{
+    cursor: pointer;
     height: 50px;
     background-color: var(--orange);
     width: 100%;
     border-radius: 10px;
     font-size: 1.125rem;
     color: white;
+}
+
+.cart-checkout-btn:hover,
+.cart-checkout-btn:focus{
+    opacity: 0.7;
 }
 
 
